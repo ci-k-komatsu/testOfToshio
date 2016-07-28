@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 sssssmkpoj:dgsdgfdg
+=======
+sssssmkpoj:dkjiuh
+gaergreg
+>>>>>>> 7bf3150dfd7f45c1a6d1830ab76e5d07ca0b374a
